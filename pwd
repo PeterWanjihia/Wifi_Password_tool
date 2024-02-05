@@ -1,0 +1,939 @@
+Name,Folder,Date_Saved
+shared-mime-info-spec.pdf,/snap/wps-office-multilang/1/usr/share/doc/shared-mime-info,2019-01-24 19:16:15
+shared-mime-info-spec.pdf,/snap/snap-store/959/usr/share/doc/shared-mime-info,2022-01-14 12:18:27
+shared-mime-info-spec.pdf,/snap/snap-store/638/usr/share/doc/shared-mime-info,2020-03-24 18:58:21
+classified.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+confidential.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+default-testpage.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+default.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+form_english.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+form_russian.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+secret.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+standard.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+topsecret.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+unclassified.pdf,/snap/cups/1024/share/cups/data,2023-12-24 05:26:16
+document-a4.pdf,/snap/cups/1024/share/cups/ipptool,2023-12-24 05:23:25
+document-letter.pdf,/snap/cups/1024/share/cups/ipptool,2023-12-24 05:23:25
+onepage-a4.pdf,/snap/cups/1024/share/cups/ipptool,2023-12-24 05:23:25
+onepage-letter.pdf,/snap/cups/1024/share/cups/ipptool,2023-12-24 05:23:25
+testfile.pdf,/snap/cups/1024/share/cups/ipptool,2023-12-24 05:23:25
+classified.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+confidential.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+default-testpage.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+default.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+form_english.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+form_russian.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+secret.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+standard.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+topsecret.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+unclassified.pdf,/snap/cups/980/share/cups/data,2023-07-14 16:33:28
+document-a4.pdf,/snap/cups/980/share/cups/ipptool,2023-07-14 16:30:07
+document-letter.pdf,/snap/cups/980/share/cups/ipptool,2023-07-14 16:30:07
+onepage-a4.pdf,/snap/cups/980/share/cups/ipptool,2023-07-14 16:30:07
+onepage-letter.pdf,/snap/cups/980/share/cups/ipptool,2023-07-14 16:30:08
+testfile.pdf,/snap/cups/980/share/cups/ipptool,2023-07-14 16:30:08
+shared-mime-info-spec.pdf,/snap/wps-office/1/usr/share/doc/shared-mime-info,2018-07-13 17:07:18
+shared-mime-info-spec.pdf,/snap/gnome-3-28-1804/198/usr/share/doc/shared-mime-info,2017-10-10 23:56:05
+shared-mime-info-spec.pdf,/snap/gnome-3-28-1804/194/usr/share/doc/shared-mime-info,2017-10-10 23:56:05
+default-testpage.pdf,/snap/vlc/3721/usr/share/cups/data,2020-07-28 13:46:48
+shared-mime-info-spec.pdf,/snap/vlc/3721/usr/share/doc/shared-mime-info,2017-10-10 23:56:05
+default-testpage.pdf,/snap/vlc/3078/usr/share/cups/data,2020-07-28 13:46:48
+shared-mime-info-spec.pdf,/snap/vlc/3078/usr/share/doc/shared-mime-info,2017-10-10 23:56:05
+printTemplate.pdf,/opt/kingsoft/wps-office/office6/mui/default/templates,2022-05-09 09:12:22
+printTemplate.pdf,/opt/kingsoft/wps-office/office6/mui/default/templates/presentationdesigns,2022-05-09 09:12:22
+xpdfimport_err.pdf,/usr/lib/libreoffice/share/xpdfimport,2023-06-16 14:32:47
+logo.pdf,/usr/lib/google-cloud-sdk/platform/google_appengine/lib/jinja2-2.6/docs,2023-11-28 11:41:38
+longintro.pdf,/usr/lib/R/library/rpart/doc,2023-11-28 11:41:59
+usercode.pdf,/usr/lib/R/library/rpart/doc,2023-11-28 11:41:59
+concordance.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+approximate.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+survival.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+multi.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+redistribute.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+validate.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+tiedtimes.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+other.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+population.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+compete.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+timedep.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+matrix.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+splines.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+adjcurve.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+discrim.pdf,/usr/lib/R/library/survival/doc,2023-11-28 11:42:00
+grid.pdf,/usr/lib/R/library/lattice/doc,2023-11-28 11:41:59
+pch.pdf,/usr/lib/R/library/graphics/help/figures,2023-11-28 11:41:58
+oma.pdf,/usr/lib/R/library/graphics/help/figures,2023-11-28 11:41:58
+mai.pdf,/usr/lib/R/library/graphics/help/figures,2023-11-28 11:41:58
+Introduction.pdf,/usr/lib/R/library/Matrix/doc,2023-11-28 11:41:59
+Intro2Matrix.pdf,/usr/lib/R/library/Matrix/doc,2023-11-28 11:41:59
+Comparisons.pdf,/usr/lib/R/library/Matrix/doc,2023-11-28 11:41:59
+Design-issues.pdf,/usr/lib/R/library/Matrix/doc,2023-11-28 11:41:59
+sparseModels.pdf,/usr/lib/R/library/Matrix/doc,2023-11-28 11:41:59
+parallel.pdf,/usr/lib/R/library/parallel/doc,2023-11-28 11:41:58
+Sweave.pdf,/usr/lib/R/library/utils/doc,2023-11-28 11:41:58
+reshape.pdf,/usr/lib/R/library/stats/doc,2023-11-28 11:41:58
+displaylist.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+grid.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+viewports.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+rotated.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+locndimn.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+grobs.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+nonfinite.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+saveload.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+frame.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+plotexample.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+moveline.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+interactive.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+sharing.pdf,/usr/lib/R/library/grid/doc,2023-11-28 11:41:58
+gnus-logo.pdf,/usr/share/emacs/26.3/etc/refcards,2024-02-01 14:09:35
+default.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+classified.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+standard.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+topsecret.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+secret.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+form_english.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+confidential.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+default-testpage.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+form_russian.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+unclassified.pdf,/usr/share/cups/data,2023-05-26 07:05:04
+config.pdf,/usr/share/texlive/texmf-dist/dvips/tetex,2023-10-02 09:28:55
+tstlmqx.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+lm-info.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+tstlmot4.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+tstlmt1.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+tstlmot1.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+tstlmts1.pdf,/usr/share/texmf/doc/fonts/lm,2023-10-02 09:28:44
+test-context-latinmodern_math.pdf,/usr/share/texmf/doc/fonts/lm-math,2023-10-02 09:28:44
+test-lualatex-latinmodern_math.pdf,/usr/share/texmf/doc/fonts/lm-math,2023-10-02 09:28:44
+test-xelatex-latinmodern_math.pdf,/usr/share/texmf/doc/fonts/lm-math,2023-10-02 09:28:44
+test-word-latinmodern_math.pdf,/usr/share/texmf/doc/fonts/lm-math,2023-10-02 09:28:44
+UserManual.pdf,/usr/share/doc/virtualbox,2023-04-24 09:59:16
+manual.pdf,/usr/share/doc/printer-driver-foo2zjs,2023-03-27 06:46:57
+lm-info.pdf,/usr/share/doc/lmodern,2023-10-02 09:28:44
+dvips.pdf,/usr/share/doc/texlive-doc/dvips,2023-10-02 09:28:55
+hmtrump-sample.pdf,/usr/share/doc/texlive-doc/lualatex/hmtrump,2023-10-02 09:28:58
+hmtrump.pdf,/usr/share/doc/texlive-doc/lualatex/hmtrump,2023-10-02 09:28:58
+kpathsea.pdf,/usr/share/doc/texlive-doc/kpathsea,2023-10-02 09:28:55
+texdoc.pdf,/usr/share/doc/texlive-doc/support/texdoc,2023-10-02 09:28:55
+ind.pdf,/usr/share/doc/texlive-doc/support/makeindex,2023-10-02 09:28:55
+makeindex.pdf,/usr/share/doc/texlive-doc/support/makeindex,2023-10-02 09:28:55
+dvipdfm.pdf,/usr/share/doc/texlive-doc/dvipdfm,2023-10-02 09:28:55
+something.pdf,/usr/share/doc/texlive-doc/dvipdfm,2023-10-02 09:28:55
+transistor.pdf,/usr/share/doc/texlive-doc/dvipdfm,2023-10-02 09:28:55
+eufrak.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+cmmib57.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+amssymb.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+amsfonts.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+euscript.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+amsfndoc.pdf,/usr/share/doc/texlive-doc/fonts/amsfonts,2023-10-02 09:28:55
+modes.pdf,/usr/share/doc/texlive-doc/fonts/modes,2023-10-02 09:28:55
+fonttables.pdf,/usr/share/doc/texlive-doc/fonts/skaknew,2023-10-02 09:28:58
+SkakNew.pdf,/usr/share/doc/texlive-doc/fonts/skaknew,2023-10-02 09:28:58
+bugs-0-3.pdf,/usr/share/doc/texlive-doc/fonts/xq,2023-10-02 09:28:58
+xqexample.pdf,/usr/share/doc/texlive-doc/fonts/xq,2023-10-02 09:28:58
+web2c.pdf,/usr/share/doc/texlive-doc/web2c,2023-10-02 09:28:55
+pdftex-a.pdf,/usr/share/doc/texlive-doc/pdftex/manual,2023-10-02 09:28:55
+tmp.pdf,/usr/share/doc/texlive-doc/pdftex/samplepdftex,2023-10-02 09:28:55
+pic.pdf,/usr/share/doc/texlive-doc/pdftex/samplepdftex,2023-10-02 09:28:55
+prepatch.pdf,/usr/share/doc/texlive-doc/pdftex/tests/06-pkmap,2023-10-02 09:28:55
+encdoc.pdf,/usr/share/doc/texlive-doc/generic/enctex,2023-10-02 09:28:55
+encdoc-e.pdf,/usr/share/doc/texlive-doc/generic/enctex,2023-10-02 09:28:55
+hyphenation-distribution.pdf,/usr/share/doc/texlive-doc/generic/hyph-utf8,2023-10-02 09:28:55
+hyph-utf8.pdf,/usr/share/doc/texlive-doc/generic/hyph-utf8,2023-10-02 09:28:55
+iftex.pdf,/usr/share/doc/texlive-doc/generic/iftex,2023-10-02 09:28:55
+etex_man.pdf,/usr/share/doc/texlive-doc/etex/base,2023-10-02 09:28:55
+texlive-en.pdf,/usr/share/doc/texlive-doc/texlive/texlive-en,2023-10-02 09:28:55
+tlbuild.pdf,/usr/share/doc/texlive-doc/texlive/tlbuild,2023-10-02 09:28:55
+reverxii.pdf,/usr/share/doc/texlive-doc/plain/reverxii,2023-10-02 09:28:58
+pas-crosswords.pdf,/usr/share/doc/texlive-doc/latex/pas-crosswords,2023-10-02 09:28:58
+sudokubundle.pdf,/usr/share/doc/texlive-doc/latex/sudokubundle,2023-10-02 09:28:58
+psgomanual.pdf,/usr/share/doc/texlive-doc/latex/psgo,2023-10-02 09:28:58
+chessboard.pdf,/usr/share/doc/texlive-doc/latex/chessboard,2023-10-02 09:28:58
+chessboard_and_beamer.pdf,/usr/share/doc/texlive-doc/latex/chessboard,2023-10-02 09:28:58
+chessboard-skakps.pdf,/usr/share/doc/texlive-doc/latex/chessboard,2023-10-02 09:28:58
+horoscop.pdf,/usr/share/doc/texlive-doc/latex/horoscop,2023-10-02 09:28:58
+sudoku.pdf,/usr/share/doc/texlive-doc/latex/sudoku,2023-10-02 09:28:58
+labyrinth.pdf,/usr/share/doc/texlive-doc/latex/labyrinth,2023-10-02 09:28:58
+logicpuzzle.pdf,/usr/share/doc/texlive-doc/latex/logicpuzzle,2023-10-02 09:28:58
+wari.pdf,/usr/share/doc/texlive-doc/latex/musikui,2023-10-02 09:28:58
+musikui.pdf,/usr/share/doc/texlive-doc/latex/musikui,2023-10-02 09:28:58
+kake.pdf,/usr/share/doc/texlive-doc/latex/musikui,2023-10-02 09:28:58
+hexgame.pdf,/usr/share/doc/texlive-doc/latex/hexgame,2023-10-02 09:28:58
+egameps.pdf,/usr/share/doc/texlive-doc/latex/egameps,2023-10-02 09:28:58
+ifplatform.pdf,/usr/share/doc/texlive-doc/latex/ifplatform,2023-10-02 09:28:55
+jigsaw-doc.pdf,/usr/share/doc/texlive-doc/latex/jigsaw,2023-10-02 09:28:58
+crosswrd.pdf,/usr/share/doc/texlive-doc/latex/crosswrd,2023-10-02 09:28:58
+refman.pdf,/usr/share/doc/texlive-doc/latex/skak,2023-10-02 09:28:58
+tuggame.pdf,/usr/share/doc/texlive-doc/latex/skak,2023-10-02 09:28:58
+informator.pdf,/usr/share/doc/texlive-doc/latex/skak,2023-10-02 09:28:58
+skakdoc.pdf,/usr/share/doc/texlive-doc/latex/skak,2023-10-02 09:28:58
+mflogo.pdf,/usr/share/doc/texlive-doc/latex/mflogo,2023-10-02 09:28:55
+xskak.pdf,/usr/share/doc/texlive-doc/latex/xskak,2023-10-02 09:28:58
+skak-comment-test.pdf,/usr/share/doc/texlive-doc/latex/xskak,2023-10-02 09:28:58
+xskak_and_beamer.pdf,/usr/share/doc/texlive-doc/latex/xskak,2023-10-02 09:28:58
+skak-longmoves-test-new.pdf,/usr/share/doc/texlive-doc/latex/xskak,2023-10-02 09:28:58
+onedown.pdf,/usr/share/doc/texlive-doc/latex/onedown,2023-10-02 09:28:58
+onedown-ref.pdf,/usr/share/doc/texlive-doc/latex/onedown/examples,2023-10-02 09:28:58
+onedown-examples.pdf,/usr/share/doc/texlive-doc/latex/onedown/examples,2023-10-02 09:28:58
+diagram.pdf,/usr/share/doc/texlive-doc/latex/chess-problem-diagrams,2023-10-02 09:28:58
+example-rose-chps1-2.pdf,/usr/share/doc/texlive-doc/latex/othelloboard,2023-10-02 09:28:58
+othelloboard.pdf,/usr/share/doc/texlive-doc/latex/othelloboard,2023-10-02 09:28:58
+rubikrot-doc-figB.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikrotationPL.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikrotation.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figC.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figB.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikrot-doc-figA.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikpatternsLIST.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikcube.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figE.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikexamples.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubiktwo-doc-figA.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figD.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikrot-doc-figC.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubiktwocube.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figF.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubik-doc-figA.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikrot-doc-figD.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikpatterns-doc-figA.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+rubikpatterns.pdf,/usr/share/doc/texlive-doc/latex/rubik,2023-10-02 09:28:58
+soup.pdf,/usr/share/doc/texlive-doc/latex/soup,2023-10-02 09:28:58
+cwpuzzle.pdf,/usr/share/doc/texlive-doc/latex/crossword,2023-10-02 09:28:58
+sgame.pdf,/usr/share/doc/texlive-doc/latex/sgame,2023-10-02 09:28:58
+havannah.pdf,/usr/share/doc/texlive-doc/latex/havannah,2023-10-02 09:28:58
+schwalbe.pdf,/usr/share/doc/texlive-doc/latex/schwalbe-chess,2023-10-02 09:28:58
+gamebook.pdf,/usr/share/doc/texlive-doc/latex/gamebook,2023-10-02 09:28:58
+gamebook-example.pdf,/usr/share/doc/texlive-doc/latex/gamebook,2023-10-02 09:28:58
+tug2005.pdf,/usr/share/doc/texlive-doc/dvipdfmx,2023-10-02 09:28:55
+tug2003-slides.pdf,/usr/share/doc/texlive-doc/dvipdfmx,2023-10-02 09:28:55
+dvipdfmx-special.pdf,/usr/share/doc/texlive-doc/dvipdfmx,2023-10-02 09:28:55
+dvipdfmx.pdf,/usr/share/doc/texlive-doc/dvipdfmx,2023-10-02 09:28:55
+btxhak.pdf,/usr/share/doc/texlive-doc/bibtex/base,2023-10-02 09:28:55
+btxdoc.pdf,/usr/share/doc/texlive-doc/bibtex/base,2023-10-02 09:28:55
+luatex.pdf,/usr/share/doc/texlive-doc/luatex/base,2023-10-02 09:28:55
+luatex-hyphen.pdf,/usr/share/doc/texlive-doc/luatex/hyph-utf8,2023-10-02 09:28:55
+lm-info.pdf,/usr/share/doc/fonts-lmodern,2023-10-02 09:28:44
+shared-mime-info-spec.pdf,/usr/share/doc/shared-mime-info,2021-06-07 08:58:03
+NEWS.pdf,/usr/share/R/doc,2023-11-28 11:41:58
+Rlogo.pdf,/usr/share/R/doc/html,2023-11-28 11:41:58
+Python Automation Cookbook.pdf,/home/moringa,2023-09-21 06:39:24
+Building Chatbots with Python_ Using Natural Language Processing and Machine Learning.pdf,/home/moringa,2023-09-28 14:25:22
+Book List .pdf,/home/moringa,2023-08-19 15:07:59
+Artificial Intelligence A Guide  to Intelligent Systems.pdf,/home/moringa,2023-12-30 16:17:51
+grokking-algorithms-illustrated-programmers-curious.pdf,/home/moringa,2023-08-21 23:10:24
+catosletterv5n2.pdf,/home/moringa,2023-08-18 20:09:07
+Programming Python Fourth Edition.pdf,/home/moringa,2023-08-17 08:59:23
+Django Book.pdf,/home/moringa,2023-09-30 13:24:25
+Introduction to Machine Learning with Python ( PDFDrive.com )-min.pdf,/home/moringa,2023-08-23 23:29:43
+Popular Culture and the Denigration of the Self.pdf,/home/moringa,2023-10-03 17:48:47
+Learning_Python.pdf,/home/moringa,2023-08-17 11:22:04
+SimonBuild efficient and lightweight microservices using the Python tooling ecosystem.pdf,/home/moringa,2023-09-28 14:00:49
+The-Midas-Touch-Kenneth-Hagin.pdf,/home/moringa,2023-09-07 12:52:58
+Building Skills for Poverty Reduction.pdf,/home/moringa,2023-08-23 12:16:41
+"Computer Systems - A Programmer's Persp. 2nd ed. - R. Bryant, D. O'Hallaron (Pearson, 2010) BBS.pdf",/home/moringa,2023-08-16 20:53:11
+Data  Structures and Algorithms (Python).pdf,/home/moringa,2023-08-16 14:12:00
+Django.pdf,/home/moringa,2023-09-30 13:24:01
+LinkedListBasics.pdf,/home/moringa,2023-08-28 10:37:02
+Think Python.pdf,/home/moringa,2023-08-14 14:07:12
+Windows System Internals 7e Part 1.pdf,/home/moringa,2023-08-17 22:28:11
+Effective_Modern_C++.pdf,/home/moringa,2024-01-11 05:50:22
+101 Essays That Will Change The Way You Think.pdf,/home/moringa,2023-08-25 12:43:13
+"O Reilly - Practical C Programming, 3rd Edition.pdf",/home/moringa,2023-10-17 10:34:17
+TARF-paper.pdf,/home/moringa,2023-09-26 22:54:53
+Mastering Python Networking.pdf,/home/moringa,2023-08-26 11:06:51
+python2cpp.pdf,/home/moringa,2023-08-28 23:11:56
+The Power of Positive Thinking.pdf,/home/moringa,2023-09-23 16:57:09
+The-Ruthless-Elimination-of-Hurry-Study-Guide-Summer-Series.pdf,/home/moringa,2023-09-20 13:36:44
+MasteringBootstrap4.pdf,/home/moringa,2023-09-14 08:15:29
+david_bayles_ted_orland_art_and_fear.pdf,/home/moringa,2023-08-26 10:12:11
+Wireshark User's Guide.pdf,/home/moringa,2023-10-19 16:03:51
+roberts-lairdon-asuza-street-revival.pdf,/home/moringa,2023-08-29 01:02:54
+mastring-linux-shell-scripting.pdf,/home/moringa,2023-08-17 19:41:18
+Python-Projects.pdf,/home/moringa,2023-10-16 08:48:12
+Designing Data Intensive Applications.pdf,/home/moringa,2023-10-23 10:14:28
+Automate the Boring Stuff with Python.pdf,/home/moringa,2023-08-14 14:17:30
+MarcuseToleranceTable.pdf,/home/moringa,2023-10-11 19:56:50
+hack.pdf,/home/moringa,2023-08-20 07:52:36
+The_Quick_Python_Book.pdf,/home/moringa,2023-08-16 09:56:25
+CUDA_C_Programming_Guide.pdf,/home/moringa,2023-09-22 13:20:16
+"The Intellectual Life_ Its Spirit, Conditi - Sertillanges, A. G., O.P_.pdf",/home/moringa,2023-08-31 08:16:59
+Alchemy and Intelligence.pdf,/home/moringa,2023-08-24 10:11:11
+Making_It_Stick.pdf,/home/moringa,2023-08-25 00:54:58
+O'Reilly - Practical C++ Programming.pdf,/home/moringa,2023-09-22 12:24:50
+Hackers & Painters - Big Ideas From The Computer Age by Paul Graham.pdf,/home/moringa,2023-10-18 00:10:11
+MySQL for Python (2010).pdf,/home/moringa,2023-08-19 22:14:49
+For Dummies - C.pdf,/home/moringa,2023-08-24 14:39:03
+JavaScript-The-Definitive-Guide-6th-Edition.pdf,/home/moringa,2023-08-15 05:51:29
+Introduction to Statistical Learning.pdf,/home/moringa,2023-08-25 00:39:32
+jeffrey_sachs_the_end_of_poverty_economic_possibilities_for_our_time__2006.pdf,/home/moringa,2023-09-12 22:00:04
+FULLTEXT04.pdf,/home/moringa,2023-08-23 11:58:16
+Eloquent Javascript.pdf,/home/moringa,2023-08-24 23:15:25
+Speaking-JavaScript.pdf,/home/moringa,2023-09-20 15:42:57
+Python Distilled.pdf,/home/moringa,2023-08-23 23:51:27
+Comprehensive Java by LIANG.pdf,/home/moringa,2023-10-19 16:03:12
+A.D.Sertillanges-The-Intellectual-Life.pdf,/home/moringa,2023-08-31 08:21:10
+Fluent_Python_(2022).pdf,/home/moringa,2023-10-08 11:45:14
+SQL_For_Dummies(Comprehensive).pdf,/home/moringa,2023-10-12 10:22:38
+"McGugan - Beginning Game Development with Python and Pygame (Apress, 2007).pdf",/home/moringa,2023-08-19 16:51:01
+Primer on Scientific Programming With Python.pdf,/home/moringa,2023-10-20 16:07:02
+Learn to Program with C_ .pdf,/home/moringa,2023-08-24 14:44:13
+Business-on-the-dark-web-deals-and-regulations.pdf,/home/moringa,2023-08-17 19:58:19
+selenium_documentation_0.pdf,/home/moringa,2023-08-19 21:23:32
+SQL_For_Dummies.pdf,/home/moringa,2023-10-12 10:21:11
+NeurIPS-2020-denoising-diffusion-probabilistic-models-Paper.pdf,/home/moringa,2023-09-01 08:40:45
+magazine_018_the art and technique of silence.pdf,/home/moringa,2023-08-14 23:14:38
+google-chrome-extension.pdf,/home/moringa,2023-08-29 08:34:44
+Superclass :The Global Power Elite and the World They are Making.pdf,/home/moringa/Elitism,2023-05-04 23:10:50
+Intro+to+Cybersecurity+Nanodegree+Program+Syllabus.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+CV Hugo Pallard English.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+MPESA_Statement_20210901_to_20210930_254740062828.pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+The Tipping Point by Malcolm Gladwell (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:46
+CV_CRISTIAN_SARGHE.pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+"Game Theory. A Handbook of Problems and Excercises (English Edition) (Leonardo Badia, Thomas Marchioro) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:24
+MIT18_404f20_lec1.pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+MIT18_404f20_hw1.pdf,/home/moringa/Books phone,2023-12-24 20:29:35
+recruiting_1-sheeter21_cs.pdf,/home/moringa/Books phone,2023-12-24 20:29:34
+"PHP MySQL  PHP Programming Guide Web Development, Database  Hacking (Scott, Robert) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:36
+"The C Programming Language (2nd Edition) (Brian W. Kernighan, Dennis M. Ritchie) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:36
+Naked_Forex.pdf,/home/moringa/Books phone,2023-12-24 20:29:30
+Introduction to MetaTrader 5 and Programming with MQL5 _ Create your 1st Investment Robot with MQL5 step by step from ZERO. ( PDFDrive ).pdf,/home/moringa/Books phone,2023-12-24 20:29:25
+"The Pragmatic Programmer Your Journey to Mastery, 20th Anniversary Edition by Andrew Hunt David Hurst Thomas (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:47
+"Computer Networking A Top-Down Approach, 7th Edition (James Kurose, Keith Ross) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:27
+MIT18_404f20_hw6.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+MPESA_Statement_20211101_to_20211130_254740062828.pdf,/home/moringa/Books phone,2023-12-24 20:29:45
+Python+Multiplayer+Adventures.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+JKUAT_Admission_Letter_Wed-Nov-2021_.pdf,/home/moringa/Books phone,2023-12-24 20:29:47
+react-roadmap.pdf,/home/moringa/Books phone,2023-12-24 20:29:45
+DeFi_Coin_DEFC_Whitepaper (1).pdf,/home/moringa/Books phone,2023-12-24 20:29:31
+"The Power of the Pussy Get What You Want From Men Love, Respect, Commitment and More (Kara King) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:35
+"Essentials of Game Theory A Concise, Multidisciplinary Introduction (Kevin Leyton-Brown, Yoav Shoham) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:36
+SHIBAINU_Ecosystem_WOOF_Paper.pdf,/home/moringa/Books phone,2023-12-24 20:29:40
+Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf,/home/moringa/Books phone,2023-12-24 20:29:39
+download.pdf,/home/moringa/Books phone,2023-12-24 20:29:35
+Data Science and Machine Learning Interview Questions Using Python A Complete Question Bank to Crack Your Interview (English... (Vishwanathan Narayanan) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+"Operating System Concepts (Abraham Silberschatz, Greg Gagne etc.) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:24
+ARUL_Law.pdf,/home/moringa/Books phone,2023-12-24 20:29:45
+how-to-start-a-blog.pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+"The TCPIP Guide A Comprehensive, Illustrated Internet Protocols Reference (Charles M. Kozierok) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:45
+the-role-of-hackers-in-security-assessments-for-product-development.pdf,/home/moringa/Books phone,2023-12-24 20:29:25
+"Algorithmic Game Theory (Noam Nisan, Tim Roughgarden, Eva Tardos etc.) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:34
+"Python Network Programming Cookbook Practical solutions to overcome real-world networking challenges (Pradeeban Kathiravelu, Dr. M. O. Faruque Sarker) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:38
+frontend.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+"Practical Deep Learning for Cloud, Mobile, and Edge Real-World AI  Computer-Vision Projects Using Python, Keras  TensorFlow (Anirudh Koul, Siddha Ganju, Meher Kasam) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:33
+"Practical IoT Hacking The Definitive Guide to Attacking the Internet of Things (Chantzis, Fotios, Stais, Ioannis, Calderon etc.) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:41
+500 Most Important Data Science Interview Questions and Answers (Vamsee Puligadda) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:31
+Introduction To Modern Physics Theoretical Foundations (John Dirk Walecka) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:26
+Advanced___PowerPoint___manual.pdf,/home/moringa/Books phone,2023-12-24 20:29:32
+zero to one by Peter Thiel (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+"Doing Math with Python Use Programming to Explore Algebra, Statistics, Calculus, and More (Amit Saha) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:35
+"The Web Application Hackers Handbook (Dafydd Stuttard, Marcus Pinto) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:30
+Libra_WhitePaperV2_April2020.pdf,/home/moringa/Books phone,2023-12-24 20:29:47
+"The Art of Public Speaking, 10th Edition by Stephen E. Lucas (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:25
+"Cloud Computing For Dummies, 2nd Edition (Judith S. Hurwitz Daniel Kirsch) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:43
+FOREX TRADING_ The Basics Explained in Simple Terms ( PDFDrive ).pdf,/home/moringa/Books phone,2023-12-24 20:29:47
+Microverse Syllabus 2021.pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+DeFi_Coin_DEFC_Whitepaper.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+ke-government-gazette-dated-1999-11-19-no-75.pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+cd39ae3293eb794bc205780b0ab212a3.pdf,/home/moringa/Books phone,2023-12-24 20:29:46
+the_candlestick_trading_bible.pdf,/home/moringa/Books phone,2023-12-24 20:29:34
+"String Theory For Dummies (Andrew Zimmerman Jones, Daniel Robbins) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:27
+Building Microservices (Sam Newman) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:30
+The Inside Story Of Papa John's Toxic Culture.pdf,/home/moringa/Books phone,2023-12-24 20:29:38
+The Rational Male by Rollo Tomassi (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:27
+MetaTrader 5.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+"Fundamentals of discrete math for computer science a problem-solving primer (Jenkyns, Tom A. Stephenson, Benjamin David) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:34
+Ego is the Enenmy ( PDFDrive ).pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+Fundamentals of Python  Data Structures by Kenneth Lambert (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:39
+"Mastering microservices with Java 9  build domain-driven microservice-based applications with Spring, Spring Cloud, and... (Sharma, Sourabh) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:40
+Full Stack AngularJS for Java Developers Build a Full-Featured Web Application from Scratch Using AngularJS with Spring... (Ravi Kant Soni (auth.)) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:32
+Introduction to Networking (Charles Severance) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:45
+"Beginning Python Games Development, 2nd Edition With PyGame by Harrison Kinsley, Will McGugan (z-lib.org) (1).pdf",/home/moringa/Books phone,2023-12-24 20:29:42
+RAND_RRA109-2.summary-english.pdf,/home/moringa/Books phone,2023-12-24 20:29:24
+101-Creative-Writing-Prompts-From-The-Write-Life.pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+forex_trading_tutorial (1).pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+"Machine Learning With Python Programming  A Comprehensive Guide To Become Expert In Python Programming by , (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:44
+Head First Ajax.pdf,/home/moringa/Books phone,2024-01-18 08:06:10
+.trashed-1651465932-forex_trading_tutorial.pdf,/home/moringa/Books phone,2023-12-24 20:29:27
+MoazzamSalmanResume.pdf.pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+"Learning HTTP2 A Practical Guide for Beginners (Stephen Ludin, Javier Garza) (z-lib.org).epub.pdf",/home/moringa/Books phone,2023-12-24 20:29:35
+MIT6_828F12_assignment1.pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+python.pdf,/home/moringa/Books phone,2023-12-24 20:29:35
+MIT6_045JS11_assn01.pdf,/home/moringa/Books phone,2023-12-24 20:29:46
+My-Personal-25-Trading-Lessons.pdf,/home/moringa/Books phone,2023-12-24 20:29:39
+MySQL Cookbook Solutions for Database Developers and Administrators (Paul DuBois) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+ES-6.22.20-Massad-1.pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+"The Intelligent Investor The Definitive Book On Value Investing, Revised Edition by Benjamin Graham, Jason Zweig (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:28
+Building REST APIs with Flask Create Python Web Services with MySQL (Kunal Relan) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:28
+"Mastering Blockchain Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications by Lorne Lantz, Daniel Cawrey (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:38
+Beginning JS with DOM and Ajax.pdf,/home/moringa/Books phone,2024-01-18 08:06:10
+Objected Oriented Programming.pdf,/home/moringa/Books phone,2023-12-24 20:29:34
+"Game theory through examples (Prisner, Erich) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:28
+"Turning the Flywheel A Monograph to Accompany Good to Great by Jim Collins Collins, James Charles (z-lib.org).epub.pdf",/home/moringa/Books phone,2023-12-24 20:29:26
+"Fundamentals of Python  from first programs through data structures by Lambert, Kenneth A. Osborne, Martin (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:35
+"Wicked Cool Shell Scripts 101 Scripts for Linux, OS X, and UNIX Systems by Dave Taylor, Brandon Perry (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:29
+Top 18 Database Projects Ideas for Students Lovelycoding_org.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+code-en.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+An Introduction to Forex Trading - A Guide for Beginners ( PDFDrive ).pdf,/home/moringa/Books phone,2023-12-24 20:29:46
+Computer Networks And The Internet A Hands-On Approach (Gerry Howser) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+MIT6_857S14_1.2.pdf,/home/moringa/Books phone,2023-12-24 20:29:34
+IFM-Newsletter-October-2021_Volume-23.pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+Assembly Language Step-by-Step Programming with Linux (Jeff Duntemann) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:38
+"Cryptography and Network Security - Prins and Pract. 5th ed - W. Stallings (Pearson, 2011) BBSbb.pdf",/home/moringa/Books phone,2023-12-24 20:29:32
+Blockchain+Developer+ND+v2+Syllabus.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+Is Your IT Team Overlooking These X Common Issues_blog direction.pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+Games People Play The Psychology of Human Relationships by Eric Berne (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+Head First SQL Your Brain on SQL -- A Learners Guide (Lynn Beighley) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+2017-2-03.pdf,/home/moringa/Books phone,2023-12-24 20:29:47
+greg-mckeown-essentialism-the-disciplined-pursuit.pdf,/home/moringa/Books phone,2023-12-24 20:29:31
+"Modern Computer Architecture and Organization Learn processor architecture including RISC-V, and design of PCs, cloud servers,... (Jim Ledin) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:41
+"Practical Statistics for Data Scientists 50+ Essential Concepts Using R and Python (Peter Bruce, Andrew Bruce, Peter Gedeck) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:47
+"Elon Musk Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:45
+"The Desire Of Ages by White, Ellen G (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:44
+Ajax For Dummies (2006).pdf,/home/moringa/Books phone,2024-01-18 08:06:10
+"Python Crash Course - A Hands-On, Project-Based Introduction to Programming by Eric Matthes (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:23
+Prep Certificate -- 2021-08-19 05_34am.pdf,/home/moringa/Books phone,2023-12-24 20:29:26
+An introduction to databases with web applications (Martyn Prigmore) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:41
+cybersecurity-career-roadmap.pdf,/home/moringa/Books phone,2023-12-24 20:29:30
+devops.pdf,/home/moringa/Books phone,2023-12-24 20:29:43
+"Learning PHP, MySQL  JavaScript - With jQuery, CSS  HTML5 (Robin Nixon) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:34
+Docker Deep Dive by Nigel Poulton (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:36
+Introduction to Quantum Mechanics (John Dirk Walecka) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:30
+The Linux Command Line A Complete Introduction (William E. Shotts) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:32
+Database Management Systems ( DBMS ).pdf,/home/moringa/Books phone,2023-12-24 20:29:29
+Beginning Django Web Application Development and Deployment with Python (Daniel Rubio (auth.)) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:34
+"Practical Discrete Mathematics Discover math principles that fuel algorithms for computer science and machine learning with... (Ryan T. White, Archana Tikayat Ray) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:42
+Program Arcade Games With Python and Pygame by Paul Vincent Craven (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:26
+"Great Writing 3 From Great Paragraphs to Great Essays (Student Book) by Keith S. Folse, Elena Vestri Solomon, David Clabeaux (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:44
+angular.pdf,/home/moringa/Books phone,2023-12-24 20:29:31
+Mans Search For Meaning by Viktor E. Frankl (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:37
+Bachelor-of-science-in-informatics-and-computer-science-2021.pdf,/home/moringa/Books phone,2023-12-24 20:29:35
+Data Science from Scratch First Principles with Python (Joel Grus) (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:42
+Deep Work Rules for Focused Success in a Distracted World by Cal Newport (z-lib.org).pdf,/home/moringa/Books phone,2023-12-24 20:29:41
+"Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali (OccupyTheWeb) (z-lib.org).pdf",/home/moringa/Books phone,2023-12-24 20:29:31
+Data Structures and Algorithms in C++ (Adam Drozdek) (z-lib.org).pdf,/home/moringa/bolo laptop,2022-10-10 08:44:31
+Virtua Reality.pdf,/home/moringa/bolo laptop,2023-07-25 09:45:39
+"Web Scraping with Python, 2nd Edition.pdf",/home/moringa/bolo laptop,2023-07-26 22:34:09
+Python ML (scikit-learn & tensorflow).pdf,/home/moringa/bolo laptop,2023-06-13 15:56:45
+blackwell-companion-to-african-philosophy.pdf,/home/moringa/bolo laptop,2023-06-24 12:37:08
+Web Scraping .pdf,/home/moringa/bolo laptop,2023-07-26 22:35:21
+Learning HTTP 2.pdf,/home/moringa/bolo laptop,2023-07-27 13:28:24
+"Data Structures and Algorithm Analysis in C++, 3rd Edition (Dr. Clifford A. Shaffer) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:31
+This is How They Tell Me the World Ends(NICOLE PERLROTH).pdf,/home/moringa/bolo laptop,2023-07-02 16:35:50
+Flask_Web_Development_Developing.pdf,/home/moringa/bolo laptop,2023-06-01 20:58:33
+Rust  Programming Language.pdf,/home/moringa/bolo laptop,2023-07-26 12:24:00
+Understanding-Virtual-Reality-Interface-Application-and-Design-The-Morgan-Kaufmann-Series-in-Computer-Graphics-.pdf,/home/moringa/bolo laptop,2023-07-25 09:50:34
+If-You-Want-To-Write-by-Brenda-Ueland.pdf,/home/moringa/bolo laptop,2023-06-07 10:04:01
+"Principles of Computer System Design An Introduction (Jerome H. Saltzer, M. Frans Kaashoek) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:57
+Wuthering Heights by (Emily Bronte).pdf,/home/moringa/bolo laptop,2023-05-22 12:25:53
+Mastering Embedded Linux Programming - Second Edition.pdf,/home/moringa/bolo laptop,2023-07-24 09:29:20
+DRAWING-PORTRAITS-FACES-AND-FIGURE-Giovanni-Civardi.pdf,/home/moringa/bolo laptop,2023-07-09 20:50:22
+android-application-development-for-for-dummies.pdf,/home/moringa/bolo laptop,2023-07-08 01:39:46
+cpp-linux-msvc-170.pdf,/home/moringa/bolo laptop,2023-07-25 02:00:50
+"Combinatorics and Graph Theory (John Harris, Jeffry L. Hirst etc.) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:28
+Letters_to_a_young_artist-sm-20rwgqx.pdf,/home/moringa/bolo laptop,2023-06-26 00:40:38
+1aditya_gupta_learning_pentesting_for_android_devices.pdf,/home/moringa/bolo laptop,2023-07-08 01:53:22
+"C++ Programming An Object-Oriented Approach (Behrouz A. Forouzan, Richard Gilberg) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:30
+TIE 3.1 PAST PAPERS.pdf,/home/moringa/bolo laptop,2022-10-10 08:45:00
+Operating Systems (Three Pieces).pdf,/home/moringa/bolo laptop,2023-07-23 20:41:28
+JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY.pdf,/home/moringa/bolo laptop,2023-07-02 08:24:42
+THINK PYTHON.pdf,/home/moringa/bolo laptop,2023-07-09 09:20:04
+JKUAT FEES STATEMENT.pdf,/home/moringa/bolo laptop,2023-07-02 08:27:00
+A Clockwork Orange (Anthony Burgess).pdf,/home/moringa/bolo laptop,2023-05-22 12:26:58
+Student Paper(MIT).pdf,/home/moringa/bolo laptop,2023-06-19 00:08:13
+Programming Rust 2nd Edition.pdf,/home/moringa/bolo laptop,2023-07-26 12:56:22
+hughes-electrical-and-electronic-technology-10th-edition.pdf,/home/moringa/bolo laptop,2022-10-10 08:44:32
+Networking Essentials Reference Textbook.pdf,/home/moringa/bolo laptop,2022-10-10 08:44:33
+ML for Robotics .pdf,/home/moringa/bolo laptop,2023-07-04 10:06:09
+Head-First-Android-Development-2015.pdf,/home/moringa/bolo laptop,2023-07-23 23:03:48
+Sexpolitics.pdf,/home/moringa/bolo laptop,2023-06-13 01:00:06
+The Physics of Everyday Phenomena _ a Conceptual Introduction to Physics (2022) TENth Ed ( etc.) (z-lib.org).pdf,/home/moringa/bolo laptop,2022-10-10 08:44:59
+"Graphs, Networks and Algorithms (Dieter Jungnickel) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:31
+THE 100.pdf,/home/moringa/bolo laptop,2023-06-18 18:28:24
+The Art of Thinking Clearly.pdf,/home/moringa/bolo laptop,2023-07-21 11:30:57
+Coding with JavaScript For Dummies.pdf,/home/moringa/bolo laptop,2023-07-28 10:59:37
+"(Robert C. Martin series 2009_ 1) Martin, Robert C - Clean Code_ A Handbook of Agile Software Craftmanship-Prentice Hall (2010) (2).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:57
+Peter Nortons Introduction to Computers (Peter Norton) (z-lib.org).pdf,/home/moringa/bolo laptop,2022-10-10 08:44:34
+Excerpt_9780801038570.pdf,/home/moringa/bolo laptop,2023-07-25 12:29:07
+Talking-to-Strangers.pdf,/home/moringa/bolo laptop,2023-06-13 23:08:37
+Augmented Reality.pdf,/home/moringa/bolo laptop,2023-07-25 09:47:55
+Introduction to Assembly Language Programming~tqw~_darksiderg.pdf,/home/moringa/bolo laptop,2023-07-20 18:12:09
+Flask Framework Cookbook.pdf,/home/moringa/bolo laptop,2023-09-19 22:10:01
+Julia Cameron - The Artist's Way - Workbook [EnglishOnlineClub.com].pdf,/home/moringa/bolo laptop,2023-06-24 12:37:02
+Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Undergraduate Topics in Computer Science) (Antti Laaksonen) (z-lib.org).pdf,/home/moringa/bolo laptop,2022-10-10 08:44:32
+For-Dummies-Drawing-Cartoons-and-Comics.pdf,/home/moringa/bolo laptop,2023-07-10 09:27:47
+Computer Organization and Architecture Designing for Performance 10th Edition (William Stallings) (z-lib.org).pdf,/home/moringa/bolo laptop,2022-10-10 08:44:29
+Karl Popper (LOGIC OF SCIENTIFIC DISCOVERY).pdf,/home/moringa/bolo laptop,2023-06-22 21:06:45
+Android_Security_Internals-An_In-Depth_Guide_to_Android_s_Security_Architecture.pdf,/home/moringa/bolo laptop,2023-07-02 15:39:48
+Python-for-Data-Analysis.pdf,/home/moringa/bolo laptop,2023-06-13 18:10:01
+Artificial Intelligence for Dummies.pdf,/home/moringa/bolo laptop,2023-06-03 19:50:58
+"Database System Concepts (Abraham Silberschatz, Henry F. Korth etc.) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:30
+mastering-flask-web-development-2nd.pdf,/home/moringa/bolo laptop,2023-06-23 13:44:47
+"Teachers Discovering Computers Integrating Technology and Digital Media in the Classroom, 6th Edition (Shelly Cashman Series) (Gary B. Shelly, Glenda A. Gunter etc.) (z-lib.org).pdf",/home/moringa/bolo laptop,2022-10-10 08:44:59
+Programming-in-Scala.pdf,/home/moringa/SCALA,2024-01-09 12:04:37
+Scala_in_Action.pdf,/home/moringa/SCALA,2024-01-09 12:06:54
+Hijacking Python Interpreters.pdf,/home/moringa/MITOpencourseware,2023-10-25 19:09:10
+Never-Let-Me-Go-by-Kazuo-Ishiguro.pdf,/home/moringa/MITOpencourseware,2023-12-14 10:39:25
+The Explusion of the Other.pdf,/home/moringa/MITOpencourseware,2024-01-04 12:43:12
+Botnets - The killer web applications.pdf,/home/moringa/MITOpencourseware,2024-01-03 10:25:17
+wisdom .pdf,/home/moringa/MITOpencourseware,2024-01-09 12:28:02
+neuralnetworksanddeeplearning.pdf,/home/moringa/MITOpencourseware,2023-12-07 23:52:08
+A Guide To Numpy.pdf,/home/moringa/MITOpencourseware,2023-10-27 07:27:29
+The-State-of-Click-Fraud_bg_2c-.pdf,/home/moringa/MITOpencourseware,2024-01-03 10:43:06
+Kissinger-AmericanCentury-Keys.pdf,/home/moringa/MITOpencourseware,2023-12-13 21:39:15
+Lets_go_with_Hidden_Data_Economy_Samani_McAfee.pdf,/home/moringa/MITOpencourseware,2023-12-26 10:22:33
+Precalculus  Sullivan(Prof Leonard).pdf,/home/moringa/MITOpencourseware,2024-01-16 09:44:32
+Head-First-Python.pdf,/home/moringa/MITOpencourseware,2023-12-05 20:52:31
+The 80_20 Principle.pdf,/home/moringa/MITOpencourseware,2024-01-10 11:08:53
+Internet  Traffic.pdf,/home/moringa/MITOpencourseware,2023-11-03 10:56:23
+ComputerScienceOne.pdf,/home/moringa/MITOpencourseware,2023-12-07 16:45:38
+tomsicthe-elite-character-and-state-society-relations0.pdf,/home/moringa/MITOpencourseware,2023-11-02 21:12:01
+Emacs Turorial.pdf,/home/moringa/MITOpencourseware,2024-01-10 10:46:43
+No.Starch.Press.Rootkits.and.Bootkits.www.EBooksWorld.ir.pdf,/home/moringa/MITOpencourseware,2024-01-03 10:29:09
+The Missing Link_ An Introduction to Web Development and Programm.pdf,/home/moringa/MITOpencourseware,2023-12-05 14:22:50
+Introduction to Comp Graphics.pdf,/home/moringa/MITOpencourseware,2023-12-18 23:29:02
+How Linux Works.pdf,/home/moringa/MITOpencourseware,2023-12-20 16:53:19
+Wifi Adapter .pdf,/home/moringa/MITOpencourseware,2024-01-04 15:15:45
+John D Reckefeller.pdf,/home/moringa/MITOpencourseware,2024-01-12 11:17:37
+PHP In Action.pdf,/home/moringa/MITOpencourseware,2024-01-16 05:59:27
+07_Ruszev.pdf,/home/moringa/MITOpencourseware,2024-01-04 13:10:53
+"MATLAB_ A Practical Introduction to Programming and Problem Solving, 5th Edition.pdf",/home/moringa/MITOpencourseware,2023-11-23 00:31:48
+Learn JavaScript with p5.js. Coding for Visual Learners.pdf,/home/moringa/MITOpencourseware,2023-12-18 23:50:52
+3._Network-security-essentials-4th-edition-william-stallings.pdf,/home/moringa/MITOpencourseware,2024-01-14 16:00:23
+Feynman Lectures.pdf,/home/moringa/MITOpencourseware,2023-12-04 03:37:27
+HACKING ANDROID.pdf,/home/moringa/MITOpencourseware,2023-11-22 23:59:44
+Object Oriented Programming  (4th Edition).pdf,/home/moringa/MITOpencourseware,2024-01-15 19:41:09
+"Who Rules America Power, Politics and Social Change.pdf",/home/moringa/MITOpencourseware,2023-11-12 21:35:55
+Google Coding Interviews.pdf,/home/moringa/MITOpencourseware,2023-10-30 09:55:01
+Learning_PHP_7_-_Antonio_Lopez.pdf,/home/moringa/MITOpencourseware,2024-01-13 20:00:27
+gamedevelopmentusingpython.pdf,/home/moringa/MITOpencourseware,2023-12-16 23:27:26
+"Joseph Campbell - The Hero With A Thousand Faces, Commemorative Edition (2004).pdf",/home/moringa/MITOpencourseware,2023-10-27 18:59:24
+SQLite.pdf,/home/moringa/MITOpencourseware,2023-10-25 14:38:33
+Linux System Programming Talking Directly to the Kernel and C Library.pdf,/home/moringa/MITOpencourseware,2023-11-24 00:40:38
+image-decoding-paper.pdf,/home/moringa/MITOpencourseware,2023-11-19 12:28:42
+HiddenHabitsOfGenius_Enhance.pdf,/home/moringa/MITOpencourseware,2024-01-13 15:09:50
+802.11@Wireless Networks- The Definitive Guide..pdf,/home/moringa/MITOpencourseware,2024-01-13 23:22:58
+"Second Mountain, The - David Brooks.pdf",/home/moringa/MITOpencourseware,2023-12-28 20:57:27
+trueprosperity.pdf,/home/moringa/MITOpencourseware,2023-12-19 11:30:16
+Fullstack Vue.pdf,/home/moringa/MITOpencourseware,2024-01-07 16:11:44
+systems-se.pdf,/home/moringa/MITOpencourseware,2023-11-24 01:14:24
+- Mathematics for Game Developers.pdf,/home/moringa/MITOpencourseware,2023-12-16 22:00:09
+No.Starch.Press.Designing.BSD.Rootkits.An.Introduction.to.Kernel.Hacking.Apr.2007.pdf,/home/moringa/MITOpencourseware,2023-12-17 22:53:01
+EBS+An+astronaut's+guide+to+life.pdf,/home/moringa/MITOpencourseware,2023-12-24 23:25:11
+sockets in c .pdf,/home/moringa/MITOpencourseware,2023-12-19 22:14:49
+Nature of Passions.pdf,/home/moringa/MITOpencourseware,2023-12-11 09:55:55
+Python Pocket Reference 4E.pdf,/home/moringa/MITOpencourseware,2023-10-31 14:03:19
+CSS_in_Depth_(2018).pdf,/home/moringa/MITOpencourseware,2023-11-28 03:43:53
+Tuesdays with Morris.pdf,/home/moringa/MITOpencourseware,2023-12-06 13:23:06
+Client-Server.pdf,/home/moringa/MITOpencourseware,2023-12-29 14:55:14
+Web_Development_with_Node_Express.pdf,/home/moringa/MITOpencourseware,2023-12-08 15:12:59
+CRAFTING INTERPRETERS.pdf,/home/moringa/MITOpencourseware,2023-10-27 23:13:03
+ModernC.pdf,/home/moringa/MITOpencourseware,2024-01-05 20:56:08
+Wealth-Poverty-and-Politics-by-Thomas-Sowell.pdf,/home/moringa/MITOpencourseware,2023-11-18 20:43:35
+WiFi_Interception_Oakland.pdf,/home/moringa/MITOpencourseware,2024-01-13 23:10:14
+Chapter5-WritingYourOwnShell.pdf,/home/moringa/MITOpencourseware,2024-01-04 15:29:26
+WebGL Project Dentists.pdf,/home/moringa/MITOpencourseware,2023-11-20 02:15:37
+"Image Processing, Analysis, and Machine Vision.pdf",/home/moringa/MITOpencourseware,2023-12-20 21:15:01
+The-Hard-Thing-About-Hard-Things.pdf,/home/moringa/MITOpencourseware,2023-12-14 10:46:57
+Self Reliance.pdf,/home/moringa/MITOpencourseware,2023-10-25 13:01:59
+ARC_Sample_Gen_Art.pdf,/home/moringa/MITOpencourseware,2023-12-16 23:33:23
+Web-design-the-missing-link-ebook-2016-11.pdf,/home/moringa/MITOpencourseware,2023-11-28 00:35:37
+Chord Protocol.pdf,/home/moringa/MITOpencourseware,2023-11-14 20:18:07
+"Fundamentals of Computer Graphics, Fourth Edition ( PDFDrive ).pdf",/home/moringa/MITOpencourseware,2024-01-05 14:10:16
+Going Digital.pdf,/home/moringa/MITOpencourseware,2023-12-06 11:43:38
+JavaScript _ functional programming for JavaScript developers.pdf,/home/moringa/MITOpencourseware,2024-01-04 16:21:59
+AoE3_chapter9.pdf,/home/moringa/MITOpencourseware,2023-12-25 11:51:59
+Programming Rust 2nd Edition.pdf,/home/moringa/MITOpencourseware,2023-11-02 12:32:33
+AndroidArch-FINAL.pdf,/home/moringa/MITOpencourseware,2023-12-24 22:43:16
+1987_Mike-Davis-Prisoners-of-the-American-Dream.pdf,/home/moringa/MITOpencourseware,2023-11-13 13:20:13
+Interactive_Data_Visualization_for_the_Web.pdf,/home/moringa/MITOpencourseware,2023-12-20 09:00:16
+A Guide to MATALB.pdf,/home/moringa/MITOpencourseware,2023-11-23 00:23:22
+Epictetus-Handbook.pdf,/home/moringa/MITOpencourseware,2023-12-13 21:33:28
+Operrating Systems and Middleware.pdf,/home/moringa/MITOpencourseware,2023-12-08 15:05:37
+Getting-Things-Done-The-Art-of-Stress-Free-Productivity-by-David-Allen-z-lib.org_.epub_.pdf,/home/moringa/MITOpencourseware,2024-01-10 09:19:18
+aaron-daniel_lloyd's-wealth-against-commonwealth-1950-spring.pdf,/home/moringa/MITOpencourseware,2024-01-12 11:37:29
+the-complete-reference-html-css-fifth-edition.pdf,/home/moringa/MITOpencourseware,2023-11-28 03:54:11
+Mathematics for Machine Learning.pdf,/home/moringa/MITOpencourseware,2023-12-30 14:16:23
+Head-First-Android-Development-2015.pdf,/home/moringa/MITOpencourseware,2023-10-31 11:18:52
+Introduction  to Jave .pdf,/home/moringa/MITOpencourseware,2023-12-20 12:40:42
+Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf,/home/moringa/MITOpencourseware,2023-12-16 21:45:53
+Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf,/home/moringa/MITOpencourseware,2023-11-14 19:08:27
+Modern Art of Makin00wils.pdf,/home/moringa/MITOpencourseware,2023-12-12 12:28:55
+The Linux Programming Interface.pdf,/home/moringa/MITOpencourseware,2023-11-24 00:37:51
+Let Go of Who You Think you are .pdf,/home/moringa/MITOpencourseware,2024-01-12 13:33:37
+Introduction to Computer Graphics.pdf,/home/moringa/MITOpencourseware,2023-11-20 00:36:58
+lesson_2-_why_should_i_desire_wisdom.pdf,/home/moringa/MITOpencourseware,2024-01-09 12:28:42
+Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf,/home/moringa/MITOpencourseware,2023-12-11 14:43:27
+Beginning Shell Scripting.pdf,/home/moringa/MITOpencourseware,2023-12-11 10:11:13
+Digital.Image.Processing.3rd.Edition.pdf,/home/moringa/MITOpencourseware,2023-12-20 20:54:35
+the-desire-for-knowledge-and-wisdom.pdf,/home/moringa/MITOpencourseware,2024-01-09 12:26:17
+wireless-comm-princip-n-practice-theodoresrappaport.pdf,/home/moringa/MITOpencourseware,2024-01-13 23:25:10
+RUST  PROGRAMMING .pdf,/home/moringa/MITOpencourseware,2023-11-02 09:45:24
+hands-on-scala-programming-sample.pdf,/home/moringa/MITOpencourseware,2024-01-09 12:38:21
+Graph Theory.pdf,/home/moringa/MITOpencourseware,2023-11-29 16:17:13
+Technology Survey.pdf,/home/moringa/MITOpencourseware,2023-12-02 22:07:26
+Android Studio 3.0 Development Essentials  - Android 8 Edition ( PDFDrive ).pdf,/home/moringa/MITOpencourseware,2023-12-24 23:09:23
+Cloud-Computing.pdf,/home/moringa/MITOpencourseware,2024-01-05 20:37:25
+hacking-the-art-of-exploitation.pdf,/home/moringa/MITOpencourseware,2023-12-29 08:17:38
+The Road to Character.pdf,/home/moringa/MITOpencourseware,2023-12-28 19:59:30
+Multi-Threaded Programming with POSIX Threads - Linux Systems Programming.pdf,/home/moringa/MITOpencourseware,2024-01-04 20:46:39
+9780691229195-lost-in-thought-hitz-discussion-questions.pdf,/home/moringa/MITOpencourseware,2024-01-02 07:47:46
+DeepLearningBook.pdf,/home/moringa/MITOpencourseware,2023-12-12 01:01:06
+Siddhartha.pdf,/home/moringa/MITOpencourseware,2023-12-17 08:27:37
+hidden-data-economy-ebook-v4.pdf,/home/moringa/MITOpencourseware,2023-12-26 10:21:45
+Learning  Web Design.pdf,/home/moringa/MITOpencourseware,2023-12-29 14:56:35
+Digital Minimalism by Cal Newport .pdf,/home/moringa/MITOpencourseware,2023-12-12 12:07:56
+EOI_eSIM_Subscription_Management_Platforms_20191112_Platforms Only.pdf,/home/moringa/MITOpencourseware,2023-12-20 12:05:16
+The Dangerous Rise of Populism.pdf,/home/moringa/MITOpencourseware,2023-11-30 18:22:34
+Zizek-The Parallax View.pdf,/home/moringa/MITOpencourseware,2023-11-25 20:14:38
+Learning Emacs.pdf,/home/moringa/MITOpencourseware,2024-01-10 18:05:44
+Neural Networks and Deep Learning-eng.pdf,/home/moringa/MITOpencourseware,2023-12-07 23:40:30
+Image Processing in C.pdf,/home/moringa/MITOpencourseware,2023-12-20 21:29:00
+Stillness Is The Key.pdf,/home/moringa/MITOpencourseware,2024-01-17 18:11:15
+hidden-data-economy-final.pdf,/home/moringa/MITOpencourseware,2023-12-26 10:23:03
+botnets-preprint.pdf,/home/moringa/MITOpencourseware,2024-01-03 10:30:26
+Lecture1.pdf,/home/moringa/MITOpencourseware,2023-10-23 11:16:39
+Jquery In Action.pdf,/home/moringa/MITOpencourseware,2024-01-08 07:52:03
+"Haas, Rossberg, Schuff, Titzer, Gohman, Wagner, Zakai, Bastien, Holman - Bringing the Web up to Speed with WebAssembly.pdf",/home/moringa/MITOpencourseware,2023-11-19 23:42:54
+Microsoft Dynamics 365 Extensions Cookbook.pdf,/home/moringa/MITOpencourseware,2023-12-21 17:08:51
+Computer Organization and Design- The HW_SW Inteface 5th edition - David A. Patterson & John L. Hennessy.pdf,/home/moringa/MITOpencourseware,2023-11-04 15:07:10
+WebGL.Up.and.Running.Aug.2012.Oreilly.pdf,/home/moringa/MITOpencourseware,2023-11-20 03:40:47
+Lawrence_Seven_Pillars_of_Wisdom.pdf,/home/moringa/MITOpencourseware,2024-01-09 12:28:18
+An Introduction to Neural Networks (Gurney).pdf,/home/moringa/MITOpencourseware,2023-11-13 22:17:52
+Oreilly.Mastering.Bitcoin.Unlocking.Digital.Cryptocurrencies.pdf,/home/moringa/MITOpencourseware,2024-01-17 06:19:39
+SCARCITYCHAPTER5.PDF,/home/moringa/MITOpencourseware,2023-11-12 18:33:45
+Python_3_Object_Oriented_Programming.pdf,/home/moringa/MITOpencourseware,2023-10-26 03:01:45
+Malware & Rootkits.pdf,/home/moringa/MITOpencourseware,2023-11-19 19:47:14
+getting_cloud_computing_right.pdf,/home/moringa/MITOpencourseware,2023-12-22 16:16:44
+The-Science-of-Getting-Rich.pdf,/home/moringa/MITOpencourseware,2024-01-08 21:30:53
+Computer Organization and Design 4th.pdf,/home/moringa/MITOpencourseware,2023-11-04 20:00:58
+Richard_Stevens-TCP-IP_Illustrated-EN.pdf,/home/moringa/MITOpencourseware,2024-01-14 16:01:25
+4AA7-4019ENW.pdf,/home/moringa/MITOpencourseware,2023-10-31 08:25:44
+Cell Phone Cloning .pdf,/home/moringa/MITOpencourseware,2023-12-29 08:40:52
+Structural  and Interpratations of  Computer Programs.pdf,/home/moringa/MITOpencourseware,2024-01-11 12:27:20
+C++ CRASH COURSE.pdf,/home/moringa/MITOpencourseware,2024-01-15 18:14:59
+Handbook of Electronic Tradng .pdf,/home/moringa/MITOpencourseware,2024-01-01 18:18:02
+dbessy.pdf,/home/moringa/MITOpencourseware,2024-01-03 21:10:31
+100m-Offers.pdf,/home/moringa/MITOpencourseware,2024-01-16 12:08:29
+"Ron Chernow - Titan_ The Life of John D. Rockefeller, Sr.-Vintage (2004).pdf",/home/moringa/MITOpencourseware,2024-01-12 11:25:25
+The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf,/home/moringa/MITOpencourseware,2024-01-01 18:31:45
+malware node js .pdf,/home/moringa/MITOpencourseware,2024-01-01 17:43:41
+Precalculus (Robert Blitzer).pdf,/home/moringa/MITOpencourseware,2023-12-03 14:14:14
+Machine Learning for Hackers_ Case Studies and Algorithms to Get You Started [Conway & White 2012-02-25].pdf,/home/moringa/MITOpencourseware,2023-12-12 00:28:36
+Phillips - Introduction to Quantum Mechanics.pdf,/home/moringa/MITOpencourseware,2023-11-20 03:57:52
+LivroProgrammingAndroid.pdf,/home/moringa/MITOpencourseware,2023-12-24 23:10:45
+Numerical-Python-Scientific-Computing-and-Data-Science-Applications-with-Numpy-SciPy-and-Matplotlib-by-Robert-Johansson-z-lib.org_.pdf,/home/moringa/MITOpencourseware,2023-10-27 07:31:40
+DOM_Scripting.pdf,/home/moringa/MITOpencourseware,2023-12-15 20:22:50
+"AI_Superpowers,_China,_Silicon_Valley_and_the_New_World_Order_-_Kai-Fu_Lee.pdf",/home/moringa/MITOpencourseware,2023-11-28 02:27:19
+"- Hearn,Baker - Computer Graphics - C Version 2nd Ed.pdf",/home/moringa/MITOpencourseware,2023-12-18 19:54:18
+divinityofchrist00robe.pdf,/home/moringa/MITOpencourseware,2023-12-14 23:33:43
+Artificial Intelligence A Modern Approach.pdf,/home/moringa/MITOpencourseware,2023-12-30 16:10:19
+HackingAI.pdf,/home/moringa/MITOpencourseware,2023-11-18 20:51:22
+Economics of Mpesa.pdf,/home/moringa/MITOpencourseware,2023-11-14 20:40:35
+Classic Shell Scripting.pdf,/home/moringa/MITOpencourseware,2023-12-11 10:03:33
+BCT 2102  Modular Programming 1.pdf,/home/moringa/Modular Programming,2024-01-21 16:23:32
+subplots.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+forward.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+matplotlib.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+back.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+zoom_to_rect.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+qt4_editor_options.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+filesave.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+hand.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+home.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+help.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+move.pdf,/home/moringa/.local/lib/python3.9/site-packages/matplotlib/mpl-data/images,2023-02-17 08:06:09
+informatika_2020_KubaL_DPH_tisk_Redigovano.pdf,/home/moringa/.local/share/Trash/files,2024-02-03 17:19:53
+learning-nodejs-development (7).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+_OceanofPDF.com_The_Alchemist.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Python for Everybody.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Dive Into Deep Learning .pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+HackerRank Question - Text Editor.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+arabic-for-dummies.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Art  of Learning(Student Guide).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+What_Are_ChatGPT_and_Its_Friends.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+HackerRank Question - Women's Day Mathematics Challenge.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Web_Development_with_Node_Express.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Guitar All-in-One for Dummies.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Why Undergraduates Should Learn The Princples of Programming Languages.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Building an Operating System.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Linux for Beginners by Jason Cannon .pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Game Engine Architecture.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+FULLTEXT01.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Charles Bukowski (The Office).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Introduction to Computation and Programming Using Python by John V. Guttag (z-lib.org).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Learning Web Design .pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Linux  for Dummies.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Hacking.for_.Dummies.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Nature of Code (Daniel Shiffman).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Downfall Vulnerability.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+how-to-code-in-nodejs.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Modern Vim_ Craft Your Development Environment with Vim 8 and Neovim ( PDFDrive.com ).pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+The Defining Decade-Why your twenties matter and how to make the most of them now.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Quantitative Trading.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Dive into Python3.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+C++ Crash Course .pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+the-multi-orgasmic-man.pdf,/home/moringa/PDF_files,2023-08-11 13:02:48
+Introduction to Programming.pdf,/home/moringa/COMP-TECH/Programming,2023-10-24 16:17:39
+Programming Language's Concepts.pdf,/home/moringa/COMP-TECH/Programming,2023-10-24 16:18:46
+Learn to Program with C_ .pdf,/home/moringa/COMP-TECH/Programming,2023-10-27 11:01:12
+Basics of Programming.pdf,/home/moringa/COMP-TECH/Programming,2023-10-24 16:17:54
+Basic Vanilla Milkshake Recipe _ Bobby Flay _ Food Network.pdf,/home/moringa/PowerShell/Task-1/Requirements1,2024-01-22 04:16:49
+BotoCheatSheet.pdf,/home/moringa/google-cloud-sdk/platform/gsutil_py2/gslib/vendored/boto/docs,2023-05-18 08:15:04
+Introduction  to Algorithms  (4th ed) T H Cormen.pdf,/home/moringa/Machine-Learning,2023-05-17 07:41:36
+Skiena  The   Algorithm  Design  Manual.pdf,/home/moringa/Machine-Learning,2023-05-17 07:33:12
+fundamentals-of-machine-learning-for-predictive-data-analytics-algorithms-worked-examples-and-case-studies-1-edition-july-24-2015-978-0262029445_compress.pdf,/home/moringa/Machine-Learning,2023-05-07 13:05:48
+Machine-Learning-For-Dummies-ElectroVolt.ir_.pdf,/home/moringa/Machine-Learning,2023-05-07 13:09:57
+The Aesthetics of Music(Roger Scruton).pdf,/home/moringa/Machine-Learning,2023-05-11 08:19:57
+The Selfish Gene (Richard Dawkins ).pdf,/home/moringa/Machine-Learning,2023-05-14 06:49:38
+Assignment 1 Additional Cost Information.pdf,/home/moringa/.cache/.fr-ClavTG,2022-08-29 19:24:51
+InspectorFSM.pdf,/home/moringa/.cache/typescript/5.2/node_modules/react-native/ReactCommon/hermes/inspector/docs,2023-05-22 15:08:53
+Assignment 1 - 2022-1.pdf,/home/moringa/.cache/.fr-7BZJPH,2022-08-29 19:25:10
+BCT 2102  Modular Programming 1.pdf,/home/moringa/.cache/.fr-xbT5rS,2024-01-23 08:26:49
+MIT6_0001F16_ps5.pdf,/home/moringa/.cache/.fr-RULAAI,2022-08-29 19:23:21
+cv (1).pdf,/home/moringa/Downloads,2023-06-09 23:44:52
+cv.pdf,/home/moringa/Downloads,2023-06-09 23:25:52
+Introduction to the theory of computation_third edition - Michael Sipser.pdf,/home/moringa/Downloads,2023-05-29 13:14:51
+RESPONSE TO CRITICS.pdf,/home/moringa/Downloads,2023-05-24 00:42:30
+s40507-021-00113-y.pdf,/home/moringa/Downloads,2023-11-20 03:58:28
+Building Chatbots with Python_ Using Natural Language Processing and Machine Learning.pdf,/home/moringa/Downloads,2023-09-28 14:24:34
+Effortless Change - Andrew Wommack (TheGospel.NG).pdf,/home/moringa/Downloads,2024-02-04 21:23:09
+install-1.PDF,/home/moringa/Downloads,2023-06-20 17:38:11
+pdfcoffee.com_modern-php-pdf-free.pdf,/home/moringa/Downloads,2024-01-16 05:57:27
+Unix_ Concepts And Applications_S. Das.pdf,/home/moringa/Downloads,2023-10-15 16:40:20
+Thesis_Archive.pdf,/home/moringa/Downloads,2024-01-16 08:53:44
+radical-responsibility-how-to-move-beyond-blame-fearlessly-live-your-highest-purpose-and-become-an-unstoppable-force-for-good-original-retailnbsped-1683641698-978-1683641698.pdf,/home/moringa/Downloads,2023-08-31 02:30:42
+Learn Python The Hard Way 3rd Edition V413HAV.pdf,/home/moringa/Downloads,2023-07-26 03:31:24
+Working with Odoo.pdf,/home/moringa/Downloads,2023-11-04 07:34:39
+designing-great-web-apis.pdf,/home/moringa/Downloads,2023-08-20 08:15:51
+N_Kshetri_Economics_2010.pdf,/home/moringa/Downloads,2024-01-03 10:41:55
+Clean Architecture A Craftsman Guide to Software Structure and Design (1).pdf,/home/moringa/Downloads,2023-08-16 11:35:46
+MalwareAnalysisofPegasusSpyware.pdf,/home/moringa/Downloads,2023-11-11 22:35:51
+History of Israel.pdf,/home/moringa/Downloads,2023-09-06 11:30:55
+Assigment.pdf,/home/moringa/Downloads,2023-05-08 12:58:32
+effective-c-an-introduction-to-professional-c-programming-1nbsped-1718501048-9781718501041_compress.pdf,/home/moringa/Downloads,2024-01-05 20:53:44
+The Internet Book_ Everything You Need to Know about Computer Networking and How the Internet Works.pdf,/home/moringa/Downloads,2023-05-05 07:37:37
+Hacking APIS. Breaking Web Application Programming Interface.pdf,/home/moringa/Downloads,2023-10-01 05:31:18
+Python Standard-Bibliothek.pdf,/home/moringa/Downloads,2023-10-04 15:15:44
+VizAfrica Flyers 2024.pdf,/home/moringa/Downloads,2024-01-12 10:13:40
+chapter-3-a-closer-look-at-internet-vpns.pdf,/home/moringa/Downloads,2024-01-29 12:41:16
+515-Article-1459-1-10-20190917.pdf,/home/moringa/Downloads,2023-08-02 21:49:13
+_journals_pneu_37_3_article-p424_11-preview.pdf,/home/moringa/Downloads,2023-07-25 12:28:49
+RESIT_CW1_Specification_SYS-2022-23_final.pdf,/home/moringa/Downloads,2023-07-22 00:39:48
+Assignment .pdf,/home/moringa/Downloads,2023-05-08 14:21:59
+"Head First C - David Griffiths, Dawn Griffiths.pdf",/home/moringa/Downloads,2023-08-08 13:26:12
+Data_Structures_and_Algorithms_with_Java.pdf,/home/moringa/Downloads,2023-12-18 16:18:36
+Training Guide.pdf,/home/moringa/Downloads,2023-05-05 11:22:00
+Mastering_OpenVPN.pdf,/home/moringa/Downloads,2024-01-30 10:18:35
+receipt (2).pdf,/home/moringa/Downloads,2023-05-26 18:20:11
+getting-started-with-beautiful-soup-1783289554-9781783289554_compress.pdf,/home/moringa/Downloads,2024-01-19 22:42:20
+231022192451_Basic_Layout_Expected.pdf,/home/moringa/Downloads,2023-10-23 12:00:12
+SENG8030_Assignment02-2023 (1).pdf,/home/moringa/Downloads,2023-10-14 17:02:16
+9781509302963_Microsoft Azure Essentials Fundamentals of Azure 2nd ed pdf.pdf,/home/moringa/Downloads,2023-12-05 14:07:23
+Python Standard Library.pdf,/home/moringa/Downloads,2023-10-04 15:16:42
+receipt_final.pdf,/home/moringa/Downloads,2023-07-22 15:03:20
+report.pdf,/home/moringa/Downloads,2023-09-27 21:00:14
+PeterWanjihia.pdf,/home/moringa/Downloads,2023-12-11 20:04:36
+pdfcoffee.com_building-games-with-ethereum-smart-contracts-2-pdf-free.pdf,/home/moringa/Downloads,2023-12-16 21:16:13
+TOPIC 2_ROLES OF A MAN.pdf,/home/moringa/Downloads,2023-10-21 06:39:51
+PeterWachiraFeb.pdf,/home/moringa/Downloads,2023-05-06 21:25:03
+review_of_The_Parallax_View_by_Slavoj_Zi.pdf,/home/moringa/Downloads,2023-12-31 18:13:55
+Full_Stack_JavaScript_Development_with_MEAN.pdf,/home/moringa/Downloads,2024-01-27 07:25:58
+"Paul Horowitz, Winfield Hill-The Art of Electronics-Cambridge University Press (2015).pdf",/home/moringa/Downloads,2023-12-25 12:48:42
+deng-xiaoping-and-the-transformation-of-china.pdf,/home/moringa/Downloads,2023-08-31 15:43:26
+dokumen.tips_sta-2100-notes1.pdf,/home/moringa/Downloads,2024-01-18 15:26:28
+Ayoetal_2012.pdf,/home/moringa/Downloads,2023-10-31 17:06:10
+236a3.pdf,/home/moringa/Downloads,2023-10-21 18:53:18
+Deploy-machine-learning-models-to-production-with-Flask-Streamlit-Docker-and-Kubernetes-on-Google-Cloud-Platform.pdf,/home/moringa/Downloads,2023-09-19 22:11:05
+Learning-Robotics-Using-Python.pdf,/home/moringa/Downloads,2024-01-04 16:31:49
+"6. Machine Learning Mastery With Python Understand Your Data, Create Accurate Models and work Projects End-to-End.pdf",/home/moringa/Downloads,2023-07-18 09:04:38
+Head first Ruby.pdf,/home/moringa/Downloads,2023-12-05 20:23:32
+doc02145920230830130631.pdf,/home/moringa/Downloads,2023-10-05 15:11:35
+hacking-connected-cars-tactics-techniques-and-procedures-1nbsped-1119491800-9781119491804_compress.pdf,/home/moringa/Downloads,2024-01-17 23:08:15
+Assignment  (1).pdf,/home/moringa/Downloads,2023-05-08 14:22:48
+digital-image-processing-with-c-implementing-reference-algorithms-with-the-cimg-library-1nbsped-103234752x-9781032347523_compress.pdf,/home/moringa/Downloads,2023-12-20 21:32:02
+Practical Javascript DOM Scripting and Ajax.pdf,/home/moringa/Downloads,2024-01-18 07:34:41
+doc1.pdf,/home/moringa/Downloads,2023-07-08 20:50:15
+Modular-Programming-with-Python.pdf,/home/moringa/Downloads,2024-01-04 16:28:01
+Getting Started Becoming a Master Hacker.pdf,/home/moringa/Downloads,2024-02-02 09:33:49
+Mathematics .pdf,/home/moringa/Downloads,2023-05-26 09:51:50
+s13677-023-00549-w.pdf,/home/moringa/Downloads,2024-01-08 05:15:25
+intro_netscience.pdf,/home/moringa/Downloads,2024-01-11 11:10:01
+9789352138258_toc.pdf,/home/moringa/Downloads,2023-12-16 21:16:03
+Disciplines of a Godly man.pdf,/home/moringa/Downloads,2023-08-01 16:48:40
+DOC-20230508-WA0021..pdf,/home/moringa/Downloads,2023-05-08 22:39:42
+231117205419_Telegram_Bot_Specifications (1).pdf,/home/moringa/Downloads,2023-11-18 05:18:46
+vertx-in-action-asynchronous-and-reactive-java-1617295620-9781617295621 (1).pdf,/home/moringa/Downloads,2024-02-02 11:42:56
+DIFFERENTIATION.pdf,/home/moringa/Downloads,2024-01-30 07:01:08
+Neo4j in Action ( PDFDrive ).pdf,/home/moringa/Downloads,2024-01-19 16:19:47
+SMA-2101-CALCULUS-I.pdf,/home/moringa/Downloads,2024-01-27 00:50:55
+senior-resume-template-minimalist-b.pdf,/home/moringa/Downloads,2023-06-10 00:01:03
+9.Nico_IAICInternationalConferences.pdf,/home/moringa/Downloads,2023-12-06 11:38:18
+"Liang, Y. Daniel 11th edition- Introduction to Java programming _ brief version-Pearson (2018)_92c47498fa281cf4fb68700da4a7dcc9.pdf",/home/moringa/Downloads,2023-10-19 13:18:16
+Ratcheting a Way Out of the Respectable_ Genealogical Interventio.pdf,/home/moringa/Downloads,2023-05-23 21:37:53
+The_Isis_Yssis_Papers_The_Keys_To_The_Co.pdf,/home/moringa/Downloads,2023-10-27 15:11:45
+assess2.pdf,/home/moringa/Downloads,2023-11-13 21:51:35
+231117205419_Telegram_Bot_Specifications.pdf,/home/moringa/Downloads,2023-11-18 05:18:46
+"Ging, Alphas, Betas, and Incels 2017.pdf",/home/moringa/Downloads,2023-11-23 19:36:28
+Awqat Travel website + app features .pdf,/home/moringa/Downloads,2023-09-07 02:56:27
+Think Like a Monk Jay Shetty.pdf,/home/moringa/Downloads,2024-02-03 14:51:12
+FeeStatement-SCT212-0364_2020-09 Nov 2023.pdf,/home/moringa/Downloads,2023-11-09 10:09:00
+BookreviewAnIntroductiontoHigh-FrequencyFinance.pdf,/home/moringa/Downloads,2024-01-01 17:51:33
+bbuj.pdf,/home/moringa/Downloads,2023-12-04 20:51:16
+pdfcoffee.com_learning-php-my-sql-and-java-script-pdf-free.pdf,/home/moringa/Downloads,2024-01-13 19:59:56
+Leadership assignment.pdf,/home/moringa/Downloads,2023-05-30 00:08:29
+Javascript_-Novice-to-Ninja---Darren-Jones.pdf,/home/moringa/Downloads,2023-12-14 07:43:42
+ECMM426-2023-spring-sample-paper.pdf,/home/moringa/Downloads,2023-06-13 00:39:43
+The Art of Work_ A Proven Path to Discovering What You Were Meant to Do ( PDFDrive ).pdf,/home/moringa/Downloads,2024-01-27 18:04:00
+Assigment (2).pdf,/home/moringa/Downloads,2023-05-29 09:17:27
+s10922-023-09778-5.pdf,/home/moringa/Downloads,2023-12-04 02:50:11
+Mastering Nginx.pdf,/home/moringa/Downloads,2023-08-18 21:26:34
+6594881_1740289481_8391697492184 (1).pdf,/home/moringa/Downloads,2023-10-19 08:56:59
+On_JavaScript_Malware_and_related_threats.pdf,/home/moringa/Downloads,2024-01-01 17:43:05
+AdvancedDesignandImplementationofVirtualMachine-TOC.pdf,/home/moringa/Downloads,2024-01-31 19:59:56
+Operating systems_ design and implementation.pdf,/home/moringa/Downloads,2023-09-06 12:14:47
+The_road_to_character_david_brooks.pdf,/home/moringa/Downloads,2023-12-28 20:00:23
+[JAVASCRIPT][Ajax in Action].pdf,/home/moringa/Downloads,2024-01-18 05:18:16
+scikit_ML.pdf,/home/moringa/Downloads,2023-12-16 21:50:23
+c871501f818554cbb209bc8e7f214508.pdf,/home/moringa/Downloads,2023-06-16 15:00:45
+RATC WT Dresscode Policy.pdf,/home/moringa/Downloads,2024-01-29 12:35:27
+"Masterful Focus_ 33 Tips to Improve Concentration, Work Smarter, and Be More Productive.pdf",/home/moringa/Downloads,2023-10-05 20:15:59
+The Narrative of Frederick Douglass .pdf,/home/moringa/Downloads,2024-02-03 21:35:08
+Vue.js in Action.Pdf,/home/moringa/Downloads,2024-01-07 16:15:07
+final.pdf,/home/moringa/Downloads,2023-07-22 15:04:09
+COMP 10259 Assignment 1-1.pdf,/home/moringa/Downloads,2023-06-16 22:42:15
+Head_First_Mobile_Web.pdf,/home/moringa/Downloads,2023-11-28 03:20:37
+roz-8___.pdf,/home/moringa/Downloads,2023-11-01 16:42:48
+The Soul’s Code_ In Search of Character and Calling ( PDFDrive.com ).pdf,/home/moringa/Downloads,2024-02-03 04:50:54
+dotnet tutorial for beginners.pdf,/home/moringa/Downloads,2024-01-03 12:03:32
+C++ How to Program.pdf,/home/moringa/Downloads,2023-08-11 22:59:08
+Classical Music for Dummies.pdf,/home/moringa/Downloads,2023-05-13 07:18:33
+receipt.pdf,/home/moringa/Downloads,2023-05-21 08:34:05
+frym-07-00049.pdf,/home/moringa/Downloads,2024-01-11 10:39:35
+BCT1-BCT4_Sem1_Invigilation Timetable - Sept - Dec2023.pdf,/home/moringa/Downloads,2023-12-02 23:08:22
+British+Parliamentary+Debating+for+Beginners.pdf,/home/moringa/Downloads,2023-06-14 09:39:48
+Hospitality Executive.pdf,/home/moringa/Downloads,2024-01-03 11:22:12
+Core C++ - A Software Engineering Approach 2000.pdf,/home/moringa/Downloads,2024-01-26 21:31:51
+FNCE 623 - Spring 2023 Group Project.pdf,/home/moringa/Downloads,2023-06-03 12:34:17
+Mastery by Robert Greene.pdf,/home/moringa/Downloads,2024-02-03 10:37:23
+bullshit-in-politics-pays.pdf,/home/moringa/Downloads,2023-06-20 22:08:39
+IBM Rocket Programming.pdf,/home/moringa/Downloads,2024-02-03 17:21:28
+MATLAB_AnIntroductionwithAp-AmosGilat.pdf,/home/moringa/Downloads,2023-11-23 00:23:45
+"Ben Burgis, Conrad Bongard Hamilton, Matthew McManus, Marion Trejo - Myth and Mayhem_ A Leftist Critique of Jordan Peterson-Zero Books (2020).pdf",/home/moringa/Downloads,2023-10-20 11:46:36
+Quantum_technology_for_military_applications.pdf,/home/moringa/Downloads,2023-11-20 04:00:08
+TCPIP Sockets in C by Michael J. Donahoo.pdf,/home/moringa/Downloads,2024-02-03 17:24:07
+NextJS-Ebook.pdf,/home/moringa/Downloads,2023-07-02 08:33:38
+Node.js-Express-in-Action.pdf,/home/moringa/Downloads,2024-01-07 16:16:03
+css-the-definitive-guide-visual-presentation-for-the-web-fourth-edition-9781449393199-1449393195_compress.pdf,/home/moringa/Downloads,2023-12-15 22:16:27
+Mathematics for Data Science.pdf,/home/moringa/Downloads,2023-11-26 21:23:47
+Man Enough Lesson 1_Manhood Defined.pdf,/home/moringa/Downloads,2023-10-06 13:14:11
+4.+Assignment+2+-+2023+%28summer%29.pdf,/home/moringa/Downloads,2023-06-16 23:10:51
+236lecture14(1).pdf,/home/moringa/Downloads,2023-10-21 18:52:40
+Beginning Neo4j ( PDFDrive ).pdf,/home/moringa/Downloads,2024-01-19 16:21:13
+Clean Architecture A Craftsman Guide to Software Structure and Design.pdf,/home/moringa/Downloads,2023-08-16 11:35:03
+The Complete Infidel's Guide to Iran.pdf,/home/moringa/Downloads,2023-08-18 20:09:19
+MATH7017-2023-project.pdf,/home/moringa/Downloads,2023-06-19 09:08:15
+Advanced Topics in C.pdf,/home/moringa/Downloads,2023-09-06 11:26:28
+JAY - a Software Framework for Prototyping and Evaluating offloading applications in Hybrid Edge Clouds.pdf,/home/moringa/Downloads,2023-08-08 10:15:33
+9780743277464.pdf,/home/moringa/Downloads,2023-08-09 00:18:09
+Invitation for mentorship session for students_230602_172439.pdf,/home/moringa/Downloads,2023-06-13 21:50:52
+receipt (1).pdf,/home/moringa/Downloads,2023-05-25 18:44:58
+SMA-2104-Maths-for-Sciences.pdf,/home/moringa/Downloads,2023-11-10 08:05:51
+Elements of Programming Interviews.pdf,/home/moringa/Downloads,2023-09-06 12:35:04
+google-cloud-platform-in-action_compress.pdf,/home/moringa/Downloads,2023-12-22 16:08:38
+RAND_RR3139-1.pdf,/home/moringa/Downloads,2023-10-20 17:18:11
+Membership application booklet .pdf,/home/moringa/Downloads,2023-05-09 23:43:20
+9781622032518.pdf,/home/moringa/Downloads,2024-01-04 09:11:59
+Description (1).pdf,/home/moringa/Downloads,2024-01-18 14:37:52
+Assignment  (1) (1).pdf,/home/moringa/Downloads,2023-05-08 18:58:28
+s40507-021-00091-1.pdf,/home/moringa/Downloads,2023-08-24 10:27:48
+cyber-security.pdf,/home/moringa/Downloads,2023-10-23 08:44:24
+Microsoft_Dynamics_CRM_2016_User_Guide.pdf,/home/moringa/Downloads,2023-12-21 17:15:07
+Russian for Dummies.pdf,/home/moringa/Downloads,2023-05-21 13:18:08
+IBM Skillsbuild free paced coursesupdated (1) (1) (1).pdf,/home/moringa/Downloads,2023-08-03 12:24:29
+Abiding in the Father's Love.pdf,/home/moringa/Downloads,2023-12-19 10:45:02
+Foundations of Python Network Programming_ Third Edition ( PDFDrive ).pdf,/home/moringa/Downloads,2024-01-27 17:57:08
+9781447259947 (1).pdf,/home/moringa/Downloads,2023-12-24 23:25:58
+LD7010 - Ethical Hacking(1) - Tagged (3) project model.pdf,/home/moringa/Downloads,2023-07-30 06:29:04
+FNCE623_Group project_Rubric.pdf,/home/moringa/Downloads,2023-06-03 12:34:52
+Software Applications 1.pdf,/home/moringa/Downloads,2023-12-15 11:16:57
+Pro Git.pdf,/home/moringa/Downloads,2023-08-04 16:46:31
+CNP3-2021.pdf,/home/moringa/Downloads,2024-01-04 22:43:30
+pdfcoffee.com_algorithmic-and-high-frequency-trading-pdf-free.pdf,/home/moringa/Downloads,2024-01-01 18:02:44
+LINUX_DEVICE_DRIVER_DEVELOPMENT_ON_ARM_C.pdf,/home/moringa/Downloads,2023-11-26 01:58:30
+excursions-in-classical-analysis-pathways-to-advanced-problem-solving-and-undergraduate-research-9780883857687-9780883859353-0883857685-0883859351_compress.pdf,/home/moringa/Downloads,2023-12-31 18:14:40
+Flint-Introduction-to-Geopolitics.pdf,/home/moringa/Downloads,2023-05-25 15:43:08
+Understanding_Azure_A_GUIDE_FOR_DEVELOPE.pdf,/home/moringa/Downloads,2023-12-05 14:10:24
+Artificial_Intelligence_in_Cyber_Securit.pdf,/home/moringa/Downloads,2023-12-12 00:30:22
+network topologies ppt.pdf,/home/moringa/Downloads,2023-10-18 09:33:26
+SENG8030_Assignment02-2023.pdf,/home/moringa/Downloads,2023-10-14 17:02:15
+ImplementationofDatabaseUsingPythonFlaskFramework.pdf,/home/moringa/Downloads,2023-07-08 20:46:31
+attachment_1 (6).pdf,/home/moringa/Downloads,2023-06-04 07:50:05
+Assignment.pdf,/home/moringa/Downloads,2023-05-29 10:38:18
+SSRN-id3563679.pdf,/home/moringa/Downloads,2023-12-02 21:49:05
+install-1 (1).PDF,/home/moringa/Downloads,2023-06-20 17:38:13
+sta-2100-notes-lecture-notes.pdf,/home/moringa/Downloads,2024-01-27 00:52:34
+231117205419_Telegram_Bot_Specifications (2).pdf,/home/moringa/Downloads,2023-11-18 05:18:46
+Node.js in Action.pdf,/home/moringa/Downloads,2024-01-07 16:14:06
+Styles_of_Thinking.pdf,/home/moringa/Downloads,2024-01-02 07:50:50
+"Introduction to Machine Learning, Second Edition (Adaptive Computation and Machine Learning).pdf",/home/moringa/Downloads,2023-09-13 08:01:56
+Final Project part 1.pdf,/home/moringa/Downloads,2023-11-17 16:07:30
+231022192451_Basic_Layout_Expected (1).pdf,/home/moringa/Downloads,2023-10-23 12:00:12
+COMP68 Practical Test-2 Instructions.pdf,/home/moringa/Downloads,2023-07-12 19:18:32
+JCLA46.2_Summer2023_FabioTononiReview.pdf,/home/moringa/Downloads,2023-10-27 11:37:14
+The Road Less Travelled .pdf,/home/moringa/Downloads,2024-02-03 10:14:19
+Zena_Hitz_Lost_in_Thought_The_Hidden_Ple.pdf,/home/moringa/Downloads,2024-01-02 07:47:19
+Peter Wanjihia Resume.pdf,/home/moringa/Downloads,2024-01-03 18:42:08
+9781447259947.pdf,/home/moringa/Downloads,2023-12-24 23:25:23
+Ayaan Hirsi Ali - Infiel.pdf,/home/moringa/Downloads,2023-08-18 20:10:23
+Understanding Operating Systems.pdf,/home/moringa/Downloads,2023-09-06 11:29:04
+Windows via C  and C++.pdf,/home/moringa/Downloads,2024-02-03 15:32:50
+EBOOK_Learn_D3_js_Create_interactive_dat.pdf,/home/moringa/Downloads,2023-12-20 09:25:06
+Internal Attachment_ Software Develoment Guide.docx.pdf,/home/moringa/Downloads,2023-05-12 12:08:46
+Education Philosophy Assignment.pdf,/home/moringa/Downloads,2023-12-15 06:48:51
+Beginning-Excel-2019-1648075038.pdf,/home/moringa/Downloads,2023-10-15 17:58:27
+imc257-durumericAemb.pdf,/home/moringa/Downloads,2023-06-23 14:49:24
+9783319944623.pdf,/home/moringa/Downloads,2023-12-07 23:38:16
+C++ In Action Industrial Strength Programming Techniques.pdf,/home/moringa/Downloads,2024-01-27 01:25:12
+LIMIT AND FIRST PRINCIPLES.pdf,/home/moringa/Downloads,2024-01-27 02:24:13
+IBM Data Science Hackathon.pdf,/home/moringa/Downloads,2023-12-22 15:55:41
+TM 436 Assignment 1.2 Information.pdf,/home/moringa/Downloads,2023-07-27 00:00:31
+pdfcoffee.com_sketching-from-the-imaginationpdf-9-pdf-free.pdf,/home/moringa/Downloads,2023-07-09 20:42:23
+preprints202312.0957.v1.pdf,/home/moringa/Downloads,2024-01-23 16:55:40
+MIT6_0001F16_ps5.pdf,/home/moringa/Downloads/MIT-Opencourseware/Python ,2023-08-24 14:21:27
+MIT6_0001F16_ps5.pdf,/home/moringa/Downloads/mit,2023-08-19 12:22:28
+CamScanner 09-23-2022 16.26.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.32.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.30 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.27 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.27.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.24.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.24 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.23.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.25 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.28 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.22.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.29.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.33.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.26 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.25.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.29 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.24 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.26 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.30.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.28.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.31.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.29 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.28 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.31 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.23 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.36.pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.25 (2).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+CamScanner 09-23-2022 16.30 (1).pdf,/home/moringa/Downloads/Exams-CT/#Exams,2023-12-10 23:30:08
+"Windows PowerShell in Action, 2nd Edition.pdf",/home/moringa/Web_Practice/Navbar/f1,2024-01-20 21:12:50
+Full_Stack_GraphQL_Applications_Neo4j.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-19 15:28:47
+Calculus.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-19 08:53:48
+RESTful_Web_Services.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-19 15:53:09
+TheSecretOfEternalYouth.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-24 11:24:18
+Do-It-Today-PDF.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-18 22:40:24
+OReilly_Graph_Databases.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-19 16:00:41
+Regenerative Power.pdf,/home/moringa/Web_Practice/Navbar/f1,2024-01-24 11:32:10

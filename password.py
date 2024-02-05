@@ -1,23 +1,16 @@
-import subprocess
-import os
+import sys
+import pathlib
 
-def list_wifi_connections():
-    try:
-        # Run the command to list available Wi-Fi connections
-        result = subprocess.run(["nmcli", "--fields", "SSID", "device", "wifi", "list"], capture_output=True, text=True)
+if len(sys.argv) != 2:
+    print("Usage: python script.py <path>")
+    sys.exit(1)
 
-        # Check if the command was successful
-        if result.returncode == 0:
-            # Display the list of Wi-Fi connections
-            print("Available Wi-Fi Connections:")
-            print(result.stdout)
-        else:
-            print("Error:", result.stderr)
+root = pathlib.Path(sys.argv[1])
 
-    except Exception as e:
-        print("An error occurred:", str(e))
+if not root.exists():
+    print(f"The path '{root}' does not exist.")
+    sys.exit(1)
 
-if __name__ == "__main__":
-    list_wifi_connections()
+root = root.resolve()
 
-
+print("Resolved Path:", root)
